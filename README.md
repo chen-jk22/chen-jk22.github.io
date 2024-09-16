@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <h1 align="center">生物信息学实践课程</h1>
-<br>
+
 ## 课堂随笔
 - **模型**<br>
   更像是一种思想，比如神经网络模型类似于模仿大脑神经元的信号传导过程，需要包括input layer、1 or more hidden layer以及output layer，接受信号经历先扩散而最终收敛，进而输出。
