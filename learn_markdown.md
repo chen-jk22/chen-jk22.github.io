@@ -29,6 +29,21 @@ import pandas as pd
 URL：
 http:www.baidu.com
 
+*斜体*
+
+**加粗**
+
+<u>下划</u>
+
+
+文本<sup>上标</sup>
+
+H<sub>2</sub>O
+
+`微亮效果`
+
+<mark>高亮效果</mark>
+
 
 
 
